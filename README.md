@@ -1,4 +1,4 @@
-# MikuMikuDance 60fps
+# MikuMikuDance 60fps (v9.32)
 
 A 60fps mod for 64-bit MikuMikuDance for use with 60fps ripped motions.
 Simply rename the original exe and use this one instead.
